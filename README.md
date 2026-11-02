@@ -344,10 +344,10 @@ shop.html
 ```
 
 ## OUTPUT
-![alt text](commercial_website1/image.png)
-![alt text](commercial_website1/image-1.png)
-![alt text](commercial_website1/image-2.png)
-![alt text](commercial_website1/image-3.png)
-![alt text](commercial_website1/image-4.png)
+![alt text](<Screenshot 2026-11-02 221106-1.png>)
+![alt text](<Screenshot 2026-11-02 221150.png>)
+![alt text](<Screenshot 2026-11-02 221206.png>)
+![alt text](<Screenshot 2026-11-02 221230.png>)
+![alt text](<Screenshot 2026-11-02 221254.png>)
 ## RESULT
 The program for creating commercial website using CSS Flexbox is executed successfully.
